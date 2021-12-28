@@ -8,7 +8,7 @@ public class Test {
 
         String aa1="010,011,012";
         if(aa1.indexOf("010") >-1  && aa1.indexOf("011") >-1 ){
-            System.out.print("111111111");
+            System.out.print("111111111111");
         }else{
             System.out.print("444444="+aa1.indexOf("010"));
         }
